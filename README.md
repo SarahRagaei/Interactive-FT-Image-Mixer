@@ -65,7 +65,11 @@ This interactive image processing tool visually explores the roles of **magnitud
 
 ## Screenshots
 
-(Insert screenshots or a demo GIF here showing 4 images, component dropdown, sliders, output viewer, etc.)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gJun0gbB3IM&autoplay=1" target="_blank">
+    <img src="https://img.youtube.com/vi/gJun0gbB3IM/0.jpg" alt="Demo Video Thumbnail" width="640">
+  </a>
+</div>
 
 ### Key Takeaways & Visual Observations
 
