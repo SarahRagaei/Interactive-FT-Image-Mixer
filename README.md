@@ -63,7 +63,7 @@ This interactive image processing tool visually explores the roles of **magnitud
 
 ---
 
-## Screenshots
+## Demo Video
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=gJun0gbB3IM&autoplay=1" target="_blank">
